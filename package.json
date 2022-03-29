@@ -1,6 +1,6 @@
 {
-  "name": "root",
-  "version": "0.0.0",
+  "name": "change-log",
+  "version": "1.0.0",
   "private": true,
   "license": "MIT",
   "workspaces": [
@@ -40,5 +40,9 @@
     "@toys/toys-ui": "file:packages/toys",
     "semantic-release": "^19.0.2",
     "website": "file:packages/website"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/llyzmp/changlog-demo.git"
   }
 }
