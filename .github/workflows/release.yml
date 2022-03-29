@@ -11,9 +11,9 @@ jobs:
     steps:
       - name: Build Changelog
         id: github_release
-        uses: liuqh0609/changelog-generator@main
-        with:
-          myToken: ${{ secrets.SE_TOKEN }}
+        uses: mikepenz/release-changelog-builder-action@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.SE_TOKEN }}
 
       - name: Create Release
         uses: actions/create-release@v1

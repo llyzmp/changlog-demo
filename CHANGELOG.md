@@ -1,3 +1,41 @@
+# [1.0.0](https://github.com/llyzmp/changlog-demo/compare/v1.0.4...v1.0.0) (2022-03-29)
+
+
+### Features
+
+* 修改yml ([6d85f1a](https://github.com/llyzmp/changlog-demo/commit/6d85f1a2e5c2ab8b61b98c6682ff67f8e640039f))
+
+
+
+## [1.0.4](https://github.com/llyzmp/changlog-demo/compare/v1.0.2...v1.0.4) (2022-03-29)
+
+
+### Features
+
+* 添加新文件 ([0f8b39b](https://github.com/llyzmp/changlog-demo/commit/0f8b39bbc2467f4d59a2fd056802ed00191cf0c5))
+* 修改文件 ([ec53a14](https://github.com/llyzmp/changlog-demo/commit/ec53a14568b51e450f7f904126dc5b14811dd815))
+
+
+
+## [1.0.2](https://github.com/llyzmp/changlog-demo/compare/v1.0.1...v1.0.2) (2022-03-29)
+
+
+### Features
+
+* 添加test.md文件 ([0d427f7](https://github.com/llyzmp/changlog-demo/commit/0d427f7010a6e5c07bfd153c44560c19412f4461))
+* 添加test2.md文件 ([3ae1e19](https://github.com/llyzmp/changlog-demo/commit/3ae1e19cf1dc0bc2f92a1775d0ed68cc90705b6a))
+
+
+
+## [1.0.1](https://github.com/llyzmp/changlog-demo/compare/v1.0.0...v1.0.1) (2022-03-29)
+
+
+### Features
+
+* test3 ([01feb1a](https://github.com/llyzmp/changlog-demo/commit/01feb1a5a5696a5a815dcb49ec5d3f061cc1fd02))
+
+
+
 # [1.0.0](https://github.com/llyzmp/changlog-demo/compare/fa6760a9e9d9ca9f49c69d1f28aa3421d09035e3...v1.0.0) (2022-03-29)
 
 
