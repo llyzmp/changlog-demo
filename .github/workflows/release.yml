@@ -12,8 +12,8 @@ jobs:
       - name: Build Changelog
         id: github_release
         uses: liuqh0609/changelog-generator@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.SE_TOKEN }}
+        with:
+          myToken: ${{ secrets.SE_TOKEN }}
 
       - name: Create Release
         uses: actions/create-release@v1
