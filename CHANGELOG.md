@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/llyzmp/changlog-demo/compare/v1.2.0...v1.3.0) (2022-03-30)
+
+
+### Features
+
+* 删除依赖包 ([1844421](https://github.com/llyzmp/changlog-demo/commit/184442153a47efa2569c79222374dfa5b733cbb4))
+
 # [1.2.0](https://github.com/llyzmp/changlog-demo/compare/v1.1.0...v1.2.0) (2022-03-30)
 
 
