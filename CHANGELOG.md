@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/llyzmp/changlog-demo/compare/v1.1.0...v1.2.0) (2022-03-30)
+
+
+### Features
+
+* 修改配置配置111 ([808e55d](https://github.com/llyzmp/changlog-demo/commit/808e55db4f351c05ac4aa236e7d18410fedc6548))
+
 # [1.1.0](https://github.com/llyzmp/changlog-demo/compare/v1.0.8...v1.1.0) (2022-03-30)
 
 
