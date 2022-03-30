@@ -1,3 +1,12 @@
+# [1.1.0](https://github.com/llyzmp/changlog-demo/compare/v1.0.8...v1.1.0) (2022-03-30)
+
+
+### Features
+
+* 修改test ([f4249ac](https://github.com/llyzmp/changlog-demo/commit/f4249ac5325ffc8778b15d25558f2cdb6a7f7eda))
+* 修改test1 ([a80a56b](https://github.com/llyzmp/changlog-demo/commit/a80a56b73f4fbd084de35eec56757ba074ffe06f))
+* 测试新配置 ([66c834e](https://github.com/llyzmp/changlog-demo/commit/66c834e252e3e3ced53090ddd8c7d6ced7f88379))
+
 # [1.0.0](https://github.com/llyzmp/changlog-demo/compare/v1.0.4...v1.0.0) (2022-03-29)
 
 
@@ -54,6 +63,3 @@
 * 修改token ([0f56650](https://github.com/llyzmp/changlog-demo/commit/0f566501068bfc43bf5fe4f93b8ecdf6f67d7ec5))
 * test ([3ca451a](https://github.com/llyzmp/changlog-demo/commit/3ca451af2a2a012e9a20967fa1421e3bd3cc0e67))
 * test1 ([1d09c3e](https://github.com/llyzmp/changlog-demo/commit/1d09c3e249c5e167de75d58ef100e9029f3a9156))
-
-
-
