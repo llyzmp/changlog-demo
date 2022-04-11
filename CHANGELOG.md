@@ -1,3 +1,11 @@
+# [1.4.0](https://github.com/llyzmp/changlog-demo/compare/v1.3.0...v1.4.0) (2022-04-11)
+
+
+### Features
+
+* 修改commitlint ([2964c1e](https://github.com/llyzmp/changlog-demo/commit/2964c1e99f85c41802601faef43fdc0f0418fe8d))
+* 修改test文件 ([122a33d](https://github.com/llyzmp/changlog-demo/commit/122a33d592b04268e06517adb7f5a0a5fe5c9c6a))
+
 # [1.3.0](https://github.com/llyzmp/changlog-demo/compare/v1.2.0...v1.3.0) (2022-03-30)
 
 
