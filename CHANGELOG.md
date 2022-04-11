@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/llyzmp/changlog-demo/compare/v1.4.0...v1.5.0) (2022-04-11)
+
+
+### Features
+
+* 再来一次 ([40f4b88](https://github.com/llyzmp/changlog-demo/commit/40f4b888230a0a9d1b0942acc21750bea22c1a38))
+
 # [1.4.0](https://github.com/llyzmp/changlog-demo/compare/v1.3.0...v1.4.0) (2022-04-11)
 
 
